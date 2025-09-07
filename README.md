@@ -2,3 +2,4 @@
 ++Scripts to modify, access, and display files and structure
 
 showcurrdir.sh - bash script to select file from current directory that will cause it to blink different colors
+fsTypeAllHDs.sh - bash script to show colorfully filesystem types and sizes of all hard drives and partitions
