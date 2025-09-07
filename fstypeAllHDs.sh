@@ -1,4 +1,4 @@
-kk#!/bin/bash
+#!/bin/bash
 
 echo -e "\e[1m\e[34mFilesystem Information:\e[0m"
 echo "--------------------------"
